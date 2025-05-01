@@ -1,0 +1,10 @@
+a=30
+print(type(a))
+b="keerthi"
+print(type(b))
+c="true"
+print(type(c))
+d=60.0
+print(type(d))
+e=39856083579744
+print(type(e))
